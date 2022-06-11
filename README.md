@@ -1,19 +1,18 @@
 # vue3-firebase-chat-app
 
-## Project Setup
+### Project Setup
 
 ```sh
-npm install
+npm install  // install package
+```
+```sh
+npm run dev // run dev
+```
+```sh
+npm run build  // build
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+### Config Firebase
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+folder firebase -> init.js // add config
 ```
