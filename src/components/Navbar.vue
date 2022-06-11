@@ -4,9 +4,6 @@
       <a class="navbar-brand" href="#">
        ChatApp Easy (Firebase)
       </a>
-      <nav>
-        <a class="btn btn-danger">Logout</a>
-      </nav>
     </div>
   </nav>
 </template>
