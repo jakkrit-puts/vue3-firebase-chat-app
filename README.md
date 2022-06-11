@@ -1,6 +1,6 @@
 # vue3-firebase-chat-app
 
-> Web App Use Vue3, Firebase, Bootsrap 5
+> Web App Use Vue3, Firebase, Bootstrap 5
 
 ---------------------------------------
 ### Priview (ตัวอย่าง)
